@@ -7,11 +7,10 @@ class App extends Component {
     return (
       <div>
           <Layout>
-            <BurgerBuilder/>
+              <BurgerBuilder/>
           </Layout>
       </div>
     );
   }
 }
-
 export default App;

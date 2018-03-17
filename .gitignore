@@ -3,3 +3,5 @@ config/
 node_modules/
 scripts/
 .idea/
+idea/
+package-lock.json
